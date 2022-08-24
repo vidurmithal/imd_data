@@ -5,10 +5,10 @@ The IMD develops several datasets with wide applicability across research and in
 
 ### Description
 |  Dataset | Spatial resolution | Temporal resolution |   Period  | Notes                                |
-|:--------:|:------------------:|:-------------------:|:---------:|--------------------------------------|
-| tmax     |        1° x 1°       |        1 day        | 1951-2020 |                                      |
-| tmin     |        1° x 1°       |        1 day        | 1951-2020 |                                      |
-| rainfall |     0.25° x 0.25°    |        1 day        | 1901-2021 | 2005 data missing; filled with `nan` |
+|:--------:|:------------------:|:-------------------:|:---------:|:--------------------------------------:|
+| `tmax`     |        1° x 1°       |        1 day        | 1951-2020 |                                  -    |
+| `tmin`     |        1° x 1°       |        1 day        | 1951-2020 |                                  -    |
+| `rainfall` |     0.25° x 0.25°    |        1 day        | 1901-2021 | 2005 data missing; filled with `nan` |
 
 
 ### Organization
